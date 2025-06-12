@@ -1,0 +1,103 @@
+
+## 📌 What is Data Structure?
+
+A **data structure** is a method to store, organize, and manage data efficiently in memory so that it can be accessed and modified easily.
+
+> Think of it like organizing books in a library: better organization = faster access.
+
+---
+
+## 🎯 Why Learn Data Structures?
+
+- Efficient storage and processing of data
+- Optimized performance
+- Essential for coding interviews & placements
+- Builds logical and problem-solving skills
+- Helps design scalable systems
+
+---
+
+## 🧩 Types of Data Structures
+
+### ✅ 1. Primitive Data Structures
+- Built-in types like `int`, `char`, `float`, `bool`
+
+### ✅ 2. Non-Primitive Data Structures
+
+#### 🧺 Linear Data Structures
+| Structure      | Description                              |
+|----------------|------------------------------------------|
+| Array          | Fixed-size elements of the same type     |
+| Linked List    | Elements connected via pointers          |
+| Stack          | Follows LIFO (Last In First Out)         |
+| Queue          | Follows FIFO (First In First Out)        |
+
+#### 🌳 Non-Linear Data Structures
+| Structure | Description                                      |
+|-----------|--------------------------------------------------|
+| Tree      | Hierarchical structure (like folders in a system)|
+| Graph     | Nodes connected by edges (like social networks)  |
+
+#### 🔑 Other Structures
+| Structure    | Use Case                              |
+|--------------|----------------------------------------|
+| HashMap      | Store key-value pairs (fast search)    |
+| Heap         | For priority-based tasks               |
+| Trie         | Efficient word & prefix searching      |
+
+---
+
+## 🔁 Common Operations
+
+| Operation   | Purpose                    |
+|------------|----------------------------|
+| Insertion   | Add new element            |
+| Deletion    | Remove an element          |
+| Searching   | Find a specific element    |
+| Traversal   | Visit each element         |
+| Update      | Change an existing value   |
+
+---
+
+## ⚖️ Time & Space Complexity
+
+Each data structure has performance characteristics:
+- Array Search = O(n)
+- HashMap Search = O(1)
+
+Choosing the right one helps improve speed and memory usage.
+
+---
+
+## 🧠 How to Choose the Right Data Structure?
+
+| Need                        | Use                |
+|----------------------------|--------------------|
+| Fast searching             | HashMap            |
+| Maintaining order          | Array / List       |
+| Back/Undo functionality    | Stack              |
+| Queue system               | Queue              |
+| Hierarchical data          | Tree               |
+| Connected elements         | Graph              |
+
+---
+
+## 🌍 Real-World Examples
+
+| Application          | Data Structure Used |
+|----------------------|---------------------|
+| Browser History       | Stack               |
+| Call Queue            | Queue               |
+| Folder Structure      | Tree                |
+| Google Maps           | Graph               |
+| Auto-suggestions      | Trie                |
+
+---
+
+## ✅ Summary
+
+- Data Structures are key to organizing data efficiently.
+- They are the backbone of all complex programs and real-world systems.
+- Knowing which structure to use = faster, cleaner code.
+
+---
